@@ -42,3 +42,16 @@
 | United Kingdom – Jersey  | yes        | 10,000                                                 |                                                            |                                                                                                                                                              |            |
 | Uruguay                  | yes        | 500,000                                                | 1,000,000                                                  | https://www.elpais.com.uy/informacion/salud/app-coronavirus-uy-monitoreando-personas-son-casos-sospechosos.html                                              | 2020/12/21 |
 | USA - Each state         | yes        |                                                        |                                                            |                                                                                                                                                              |            |
+
+# Annotation
+## Number of downloads based on the Google Play store  *1
+Number of installations listed on the Google Play store.
+Example)
+5000-> 5000+-> (501-1000) installs
+100000-> 100000+-> (100001-> 50000) installs
+## Number of downloads based on official or press releases *2
+Number of downloads based on news websites and official announcements.
+## Source *3
+Source of *2
+## Date *4
+Date when the news article or official announcement was published.
