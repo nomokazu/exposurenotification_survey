@@ -45,10 +45,10 @@
 
 # Annotation
 ## Number of downloads based on the Google Play store  *1
-Number of installations listed on the Google Play store.
-Example)
-5000-> 5000+-> (501-1000) installs
-100000-> 100000+-> (100001-> 50000) installs
+Number of installations listed on the Google Play store.<br>
+Example)<br>
+5000-> 5000+-> (501-1000) installs<br>
+100000-> 100000+-> (100001-> 50000) installs<br>
 ## Number of downloads based on official or press releases *2
 Number of downloads based on news websites and official announcements.
 ## Source *3
