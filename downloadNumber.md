@@ -55,3 +55,6 @@ Number of downloads based on news websites and official announcements.
 Source of *2
 ## Date *4
 Date when the news article or official announcement was published.
+
+# References
+Here are the countries using Google and Apple’s COVID-19 Contact Tracing API,https://www.xda-developers.com/google-apple-covid-19-contact-tracing-exposure-notifications-api-app-list-countries/
